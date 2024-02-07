@@ -1,1 +1,1 @@
-# DH-POO
+# DH-Object-oriented programming
