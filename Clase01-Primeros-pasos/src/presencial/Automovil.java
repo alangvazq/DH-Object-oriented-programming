@@ -13,6 +13,4 @@ public class Automovil {
         System.out.println("Auto seleccionado: "+marca+" Inicial de la Marca: "+inicial);
         System.out.println("Cpacidad de combustible: "+capacidadCombustible);
     }
-
-
 }
