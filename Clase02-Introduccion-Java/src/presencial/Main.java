@@ -18,6 +18,8 @@ public class Main {
         System.out.println("Ingrese nota anterior: ");
         double nota = scanner.nextDouble();
 
+        scanner.close();
+
         System.out.println("Verifique datos ingresados: ");
         System.out.println(nombre+" ,"+matricula+" ,"+edad+" ,"+nota);
         System.out.println("Letra inicial: "+letraInicial+" Letra final: "+letraFinal);
